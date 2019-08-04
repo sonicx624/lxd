@@ -1,4 +1,4 @@
 #!/bin/bash
-. ~/Documents/sysbenchCPU.bash
-. ~/Documents/sysbenchFileIO.bash
-. ~/Documents/glxgears.bash
+. ~/lxd/sysbenchCPU.bash
+. ~/lxd/sysbenchFileIO.bash
+. ~/lxd/glxgears.bash
