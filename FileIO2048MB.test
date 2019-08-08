@@ -21,28 +21,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      306.06
-    writes/s:                     204.04
-    fsyncs/s:                     653.08
+    reads/s:                      328.15
+    writes/s:                     218.77
+    fsyncs/s:                     700.37
 
 Throughput:
-    read, MiB/s:                  4.78
-    written, MiB/s:               3.19
+    read, MiB/s:                  5.13
+    written, MiB/s:               3.42
 
 General statistics:
-    total time:                          300.1387s
-    total number of events:              348988
+    total time:                          300.0425s
+    total number of events:              374113
 
 Latency (ms):
          min:                                    0.00
-         avg:                                    0.86
-         max:                                  512.38
-         95th percentile:                        6.67
-         sum:                               299747.80
+         avg:                                    0.80
+         max:                                  514.41
+         95th percentile:                        6.32
+         sum:                               299815.22
 
 Threads fairness:
-    events (avg/stddev):           348988.0000/0.00
-    execution time (avg/stddev):   299.7478/0.00
+    events (avg/stddev):           374113.0000/0.00
+    execution time (avg/stddev):   299.8152/0.00
 
 sysbench 1.0.15 (using system LuaJIT 2.1.0-beta3)
 
@@ -67,28 +67,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      312.54
-    writes/s:                     208.36
-    fsyncs/s:                     666.97
+    reads/s:                      329.85
+    writes/s:                     219.90
+    fsyncs/s:                     703.82
 
 Throughput:
-    read, MiB/s:                  4.88
-    written, MiB/s:               3.26
+    read, MiB/s:                  5.15
+    written, MiB/s:               3.44
 
 General statistics:
-    total time:                          300.0606s
-    total number of events:              356303
+    total time:                          300.1357s
+    total number of events:              376114
 
 Latency (ms):
          min:                                    0.00
-         avg:                                    0.84
-         max:                                  512.22
-         95th percentile:                        6.55
-         sum:                               299792.73
+         avg:                                    0.80
+         max:                                  508.58
+         95th percentile:                        6.32
+         sum:                               299818.13
 
 Threads fairness:
-    events (avg/stddev):           356303.0000/0.00
-    execution time (avg/stddev):   299.7927/0.00
+    events (avg/stddev):           376114.0000/0.00
+    execution time (avg/stddev):   299.8181/0.00
 
 sysbench 1.0.15 (using system LuaJIT 2.1.0-beta3)
 
@@ -113,28 +113,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      310.11
-    writes/s:                     206.74
-    fsyncs/s:                     661.80
+    reads/s:                      325.90
+    writes/s:                     217.27
+    fsyncs/s:                     695.51
 
 Throughput:
-    read, MiB/s:                  4.85
-    written, MiB/s:               3.23
+    read, MiB/s:                  5.09
+    written, MiB/s:               3.39
 
 General statistics:
-    total time:                          300.0814s
-    total number of events:              353568
+    total time:                          300.0864s
+    total number of events:              371585
 
 Latency (ms):
          min:                                    0.00
-         avg:                                    0.85
-         max:                                  517.16
-         95th percentile:                        6.55
-         sum:                               299773.03
+         avg:                                    0.81
+         max:                                  510.85
+         95th percentile:                        6.32
+         sum:                               299819.50
 
 Threads fairness:
-    events (avg/stddev):           353568.0000/0.00
-    execution time (avg/stddev):   299.7730/0.00
+    events (avg/stddev):           371585.0000/0.00
+    execution time (avg/stddev):   299.8195/0.00
 
 sysbench 1.0.15 (using system LuaJIT 2.1.0-beta3)
 
@@ -159,28 +159,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      310.51
-    writes/s:                     207.01
-    fsyncs/s:                     662.68
+    reads/s:                      328.77
+    writes/s:                     219.18
+    fsyncs/s:                     701.70
 
 Throughput:
-    read, MiB/s:                  4.85
-    written, MiB/s:               3.23
+    read, MiB/s:                  5.14
+    written, MiB/s:               3.42
 
 General statistics:
-    total time:                          300.0851s
-    total number of events:              354034
+    total time:                          300.0250s
+    total number of events:              374802
 
 Latency (ms):
          min:                                    0.00
-         avg:                                    0.85
-         max:                                  515.69
-         95th percentile:                        6.67
-         sum:                               299757.03
+         avg:                                    0.80
+         max:                                  509.21
+         95th percentile:                        6.32
+         sum:                               299819.95
 
 Threads fairness:
-    events (avg/stddev):           354034.0000/0.00
-    execution time (avg/stddev):   299.7570/0.00
+    events (avg/stddev):           374802.0000/0.00
+    execution time (avg/stddev):   299.8200/0.00
 
 sysbench 1.0.15 (using system LuaJIT 2.1.0-beta3)
 
@@ -205,28 +205,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      310.81
-    writes/s:                     207.21
-    fsyncs/s:                     663.08
+    reads/s:                      329.96
+    writes/s:                     219.97
+    fsyncs/s:                     704.21
 
 Throughput:
-    read, MiB/s:                  4.86
-    written, MiB/s:               3.24
+    read, MiB/s:                  5.16
+    written, MiB/s:               3.44
 
 General statistics:
-    total time:                          300.1816s
-    total number of events:              354416
+    total time:                          300.0349s
+    total number of events:              376160
 
 Latency (ms):
          min:                                    0.00
-         avg:                                    0.85
-         max:                                  511.04
-         95th percentile:                        6.55
-         sum:                               299776.09
+         avg:                                    0.80
+         max:                                  516.90
+         95th percentile:                        6.32
+         sum:                               299815.93
 
 Threads fairness:
-    events (avg/stddev):           354416.0000/0.00
-    execution time (avg/stddev):   299.7761/0.00
+    events (avg/stddev):           376160.0000/0.00
+    execution time (avg/stddev):   299.8159/0.00
 
 sysbench 1.0.15 (using system LuaJIT 2.1.0-beta3)
 
@@ -251,28 +251,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      310.18
-    writes/s:                     206.79
-    fsyncs/s:                     662.12
+    reads/s:                      329.18
+    writes/s:                     219.46
+    fsyncs/s:                     702.43
 
 Throughput:
-    read, MiB/s:                  4.85
-    written, MiB/s:               3.23
+    read, MiB/s:                  5.14
+    written, MiB/s:               3.43
 
 General statistics:
-    total time:                          300.0140s
-    total number of events:              353622
+    total time:                          300.1946s
+    total number of events:              375439
 
 Latency (ms):
          min:                                    0.00
-         avg:                                    0.85
-         max:                                  513.68
-         95th percentile:                        6.55
-         sum:                               299774.74
+         avg:                                    0.80
+         max:                                  528.54
+         95th percentile:                        6.32
+         sum:                               299828.84
 
 Threads fairness:
-    events (avg/stddev):           353622.0000/0.00
-    execution time (avg/stddev):   299.7747/0.00
+    events (avg/stddev):           375439.0000/0.00
+    execution time (avg/stddev):   299.8288/0.00
 
 sysbench 1.0.15 (using system LuaJIT 2.1.0-beta3)
 
@@ -297,28 +297,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      310.75
-    writes/s:                     207.16
-    fsyncs/s:                     663.21
+    reads/s:                      330.53
+    writes/s:                     220.35
+    fsyncs/s:                     705.38
 
 Throughput:
-    read, MiB/s:                  4.86
-    written, MiB/s:               3.24
+    read, MiB/s:                  5.16
+    written, MiB/s:               3.44
 
 General statistics:
-    total time:                          300.0501s
-    total number of events:              354270
+    total time:                          300.0663s
+    total number of events:              376834
 
 Latency (ms):
          min:                                    0.00
-         avg:                                    0.85
-         max:                                  514.83
-         95th percentile:                        6.55
-         sum:                               299764.08
+         avg:                                    0.80
+         max:                                  511.88
+         95th percentile:                        6.32
+         sum:                               299822.75
 
 Threads fairness:
-    events (avg/stddev):           354270.0000/0.00
-    execution time (avg/stddev):   299.7641/0.00
+    events (avg/stddev):           376834.0000/0.00
+    execution time (avg/stddev):   299.8227/0.00
 
 sysbench 1.0.15 (using system LuaJIT 2.1.0-beta3)
 
@@ -343,28 +343,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      311.13
-    writes/s:                     207.42
-    fsyncs/s:                     664.05
+    reads/s:                      328.54
+    writes/s:                     219.03
+    fsyncs/s:                     701.22
 
 Throughput:
-    read, MiB/s:                  4.86
-    written, MiB/s:               3.24
+    read, MiB/s:                  5.13
+    written, MiB/s:               3.42
 
 General statistics:
-    total time:                          300.0640s
-    total number of events:              354729
+    total time:                          300.0553s
+    total number of events:              374579
 
 Latency (ms):
          min:                                    0.00
-         avg:                                    0.85
-         max:                                  513.35
-         95th percentile:                        6.55
-         sum:                               299779.19
+         avg:                                    0.80
+         max:                                  508.87
+         95th percentile:                        6.32
+         sum:                               299826.06
 
 Threads fairness:
-    events (avg/stddev):           354729.0000/0.00
-    execution time (avg/stddev):   299.7792/0.00
+    events (avg/stddev):           374579.0000/0.00
+    execution time (avg/stddev):   299.8261/0.00
 
 sysbench 1.0.15 (using system LuaJIT 2.1.0-beta3)
 
@@ -389,28 +389,28 @@ Threads started!
 
 
 File operations:
-    reads/s:                      301.16
-    writes/s:                     200.77
-    fsyncs/s:                     642.82
+    reads/s:                      328.75
+    writes/s:                     219.16
+    fsyncs/s:                     701.68
 
 Throughput:
-    read, MiB/s:                  4.71
-    written, MiB/s:               3.14
+    read, MiB/s:                  5.14
+    written, MiB/s:               3.42
 
 General statistics:
-    total time:                          300.0326s
-    total number of events:              343343
+    total time:                          300.0482s
+    total number of events:              374811
 
 Latency (ms):
          min:                                    0.00
-         avg:                                    0.87
-         max:                                  516.11
-         95th percentile:                        6.55
-         sum:                               299783.06
+         avg:                                    0.80
+         max:                                  508.19
+         95th percentile:                        6.32
+         sum:                               299826.54
 
 Threads fairness:
-    events (avg/stddev):           343343.0000/0.00
-    execution time (avg/stddev):   299.7831/0.00
+    events (avg/stddev):           374811.0000/0.00
+    execution time (avg/stddev):   299.8265/0.00
 
 sysbench 1.0.15 (using system LuaJIT 2.1.0-beta3)
 
@@ -435,26 +435,26 @@ Threads started!
 
 
 File operations:
-    reads/s:                      308.14
-    writes/s:                     205.42
-    fsyncs/s:                     657.66
+    reads/s:                      328.96
+    writes/s:                     219.31
+    fsyncs/s:                     702.16
 
 Throughput:
-    read, MiB/s:                  4.81
-    written, MiB/s:               3.21
+    read, MiB/s:                  5.14
+    written, MiB/s:               3.43
 
 General statistics:
-    total time:                          300.0598s
-    total number of events:              351309
+    total time:                          300.0355s
+    total number of events:              375045
 
 Latency (ms):
          min:                                    0.00
-         avg:                                    0.85
-         max:                                  511.76
-         95th percentile:                        6.67
-         sum:                               299768.95
+         avg:                                    0.80
+         max:                                  510.06
+         95th percentile:                        6.32
+         sum:                               299831.11
 
 Threads fairness:
-    events (avg/stddev):           351309.0000/0.00
-    execution time (avg/stddev):   299.7689/0.00
+    events (avg/stddev):           375045.0000/0.00
+    execution time (avg/stddev):   299.8311/0.00
 

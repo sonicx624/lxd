@@ -1,2 +1,2 @@
 #!/bin/bash
-http-server -K ~/xen/host.key -C ~/xen/host.cert -S 2>/dev/null &
+http-server -K ~/lxd/host.key -C ~/lxd/host.cert -S 2>/dev/null &
